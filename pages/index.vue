@@ -14,7 +14,8 @@ useHead({
     },
     {
       property: 'og:image',
-      content: '/jiri_kratochvil.jpg',
+      content:
+        'https://res.cloudinary.com/simonaliska/image/upload/v1675788643/kratochvil.tech/jiri_kratochvil_vox6o6.jpg',
     },
     { name: 'twitter:card', content: 'summary_large_image' },
     {
