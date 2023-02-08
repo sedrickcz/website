@@ -15,8 +15,8 @@
         <div class="card-body">
           <h2 class="card-title">I really love Twitter!</h2>
           <p>
-            Twitter is the most of the time my only source of informations and
-            also I am posting here pretty regulary.
+            I use Twitter as my main source of information. I also post there on
+            a regular basis.
           </p>
           <div class="card-actions mt-4 justify-end">
             <button
@@ -40,10 +40,10 @@
           />
         </figure>
         <div class="card-body">
-          <h2 class="card-title">I am a co-hosting Vue.js // Berlin</h2>
+          <h2 class="card-title">I co-host Vue.js // Berlin</h2>
           <p>
-            Since 2017 I am co-hosting the Vue.js // Berlin meetup. We have the
-            largest Vue.js meetup in Germany and on of the biggest Vue.js
+            I have been co-hosting the Vue meetup since 2017. We have the
+            largest Vue.js meetup in Germany and on of the largest Vue.js
             comunity in Europe.
           </p>
           <div class="card-actions mt-4 justify-end">
@@ -98,8 +98,8 @@
         <div class="card-body">
           <h2 class="card-title">I am speaker</h2>
           <p>
-            Sometimes I am speaking at meetups. I am still beginner but I am
-            trying to improve my skills.
+            Sometimes I speak at meet-ups. Although I am quite new at it I enjoy
+            the buzz and I try to improve my speaking skills.
           </p>
           <div class="card-actions mt-4 justify-end">
             <button

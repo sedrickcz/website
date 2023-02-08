@@ -28,7 +28,7 @@
                 <input
                   type="text"
                   name="email"
-                  placeholder="email"
+                  placeholder="Email"
                   class="input input-bordered"
                 />
               </div>
