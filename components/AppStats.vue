@@ -13,9 +13,9 @@
         <div
           class="stat-value bg-gradient-to-r from-primary to-info inline-block text-transparent bg-clip-text"
         >
-          14 Years
+          16 Years
         </div>
-        <div class="stat-desc">2009 - 2023</div>
+        <div class="stat-desc">2009 - 2025</div>
       </div>
 
       <div class="stat">
@@ -26,9 +26,9 @@
         <div
           class="stat-value bg-gradient-to-r from-primary-content to-primary inline-block text-transparent bg-clip-text"
         >
-          7 Years
+          9 Years
         </div>
-        <div class="stat-desc">2016 - 2023</div>
+        <div class="stat-desc">2016 - 2025</div>
       </div>
 
       <div class="stat md:hidden">
@@ -54,7 +54,7 @@
         >
           50+
         </div>
-        <div class="stat-desc">2009 - 2023</div>
+        <div class="stat-desc">2009 - 2025</div>
       </div>
     </div>
 
@@ -84,7 +84,7 @@
         >
           50+
         </div>
-        <div class="stat-desc">2009 - 2023</div>
+        <div class="stat-desc">2009 - 2025</div>
       </div>
     </div>
   </section>
