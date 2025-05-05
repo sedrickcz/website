@@ -5,7 +5,7 @@
     class="footer items-center justify-center p-4 bg-neutral text-neutral-content relative w-screen"
   >
     <div class="items-center justify-center grid-flow-col">
-      <p>Copyright © 2023 - All right reserved</p>
+      <p>Copyright © 2025 - All right reserved</p>
     </div>
     <div class="grid-flow-col gap-4 place-self-center md:justify-self-end">
       <NuxtLink to="https://www.twitter.com/sedrickcz" target="_blank">
